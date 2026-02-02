@@ -1,0 +1,7 @@
+{
+  "name": "RealEstate CRM Pro",
+  "description": "A high-performance real estate CRM with AI assistant integration, Google Sheets backend, and advanced analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
